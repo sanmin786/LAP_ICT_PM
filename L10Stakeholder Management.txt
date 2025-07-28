@@ -1,1 +1,71 @@
 L10Stakeholder Management
+Four processes of Staeholders Management
+Project Initiation Phase
+1)Identifying stakeholders
+=>Internal project stakeholders
+    project sponsor, project team, support staff, internal customers
+    limited resources
+=>External project stakeholders
+    project's customers, competitors, suppliers,government officials
+
+=>Stakeholders Register
+    Identification information (name,positions,locations,roles)
+    Assessment information (requirements, expectations)
+    Stakeholder classification (stakeholder's name, role, responsibility and already started in project charter)
+
+=>Stakeholder Analysis
+    to measure the engagement level of stakeholders
+    1)Unaware
+    2)Resistant (to change)
+    3)Neutral (neither Supportive nor resistant)
+    4)Supportive (supportive of change)
+    5)Leading (actively engaged)
+
+    high interest/high power => manage closely
+    high interest/low power => keep informed
+    Low interest/high power => keep satisfied
+    Low interest/low power => monitar
+
+Project Planning Phase
+2)Planning stakeholder Management
+    Current and desired engament level
+        develop a strategy to align the engagement levels
+
+    Interrelationships between stakeholders
+        project manager must be in tune with the politics of the organization
+    
+    Communication requirements
+        sepcify stakeholder requirements
+        stakeholder register can expand on unique request from specific people
+    
+    Potential management strategies for each stakeholder
+        this can contain very sensitive information
+    
+    Methods for updating the stakeholder management plan
+        process for handling changes and updates
+        flexibility would be important 
+
+Project Execution Phase
+3)Managing stakeholder engagement
+    Measure of success (scope, time, cost)
+    Priority
+    expectations (ranking)
+    Guidelines (to balance the triple constraint)
+
+    Issue log
+        a tool used to document, monitor and track the issues
+
+Best Practice
+    Be clear from the start
+    Explain the consequences
+    Have a contingency plan => be ready a more senior person
+    Avoid surprises => better to be honest about project challenges
+    Take a stand =>
+
+Project Controlling and Monitoring Phase
+4)Controlling Stakeholder Engagement
+    can't control stakeholders, but can control their level of engagement
+    engagement to seek understanding and solutions to issues of mutula concern
+    actively perticipate in kick-off meeting rather than merely attending it
+
+

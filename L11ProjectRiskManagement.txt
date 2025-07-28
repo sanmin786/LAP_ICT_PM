@@ -1,0 +1,86 @@
+Risk => the possiblity of loss or injury
+
+Type of Risk
+    negative risk or threat
+    positive risk or opportunity
+A project risk => an uncertainty that can have a negative or positive effect on meeting project objectives
+
+Negative Risk
+    avoid, lessen,change, or accept the potential effects of risks on their projects
+
+Positive Risk
+    investing - cost
+
+The cost of risk management should not exceed the potential benefits
+-------------------------------------------
+Find a balance between risks and opportunities
+Risk Appetite
+    the degree of uncertainty an entity is willing to take on, in anticipation of a reward
+Risk Tolerance
+    the maximum acceptable deviation an entity is willing to accept on the project as the potential impact
+------------------------------
+The utility theory of risk
+Risk Averse (less risk)
+Risk Neutral (a balance between risk and payoff)
+Risk Seeking (prefer outcomes regardless of payoff)
+-------------------------------------
+Known risk vs Unknown risk
+Known risk => identified and analysed , can be managed
+Unknown risk => not identified and analysed , can not be managed
+------------------------------------
+Goal of project risk management
+-minimize potential negative risks while maximizing potential positive risks
+------------------------------
+Common sources of risk on IT projects
+-make group's success potential scoring sheet
+-if does not receive a minimum score, stop to work or reduce risks before too late
+
+----------------------------------------
+5 Questions related to user involvement
+-Do I have the right users?
+-Did I involved the users early and often?
+-Do I have a quality relationship with the users?
+-Do I make involvement easy?
+Did I find out what the users need?
+
+--------------------------------
+Broad categories of risks
+-Market risk
+-Financial risk
+-Technology risk
+-People risk
+Structure/process risk
+
+--------------------------------------
+Risk Breakdown Structure
+see the chart
+
+--------------------------
+Identifying risks
+    Brainstorming
+    Interviewing
+    SWOT Analysis
+    Checklists
+    Creation of diagrams
+------------------------------
+The risk register
+No., Rank, Risk Description,...
+----------------------------------
+Top Ten Risk Item Tracking
+A Qualitative risk analysis tool
+Monthly Ranking
+Risk Event , Rank This Month, Rank Last Month, Number of Months in Top Ten, Risk Resolution Progress
+
+--------------------------------------
+Planning risk responses
+    Four basic response to negative risks
+        1)Risk Avoidance
+        2)Risk Acceptance
+        3)Risk Transference (getting insurance)
+        4)Risk mitigation
+    Four basic response to positive risks
+        1)Risk expoitation
+        2)Risk sharing
+        3)Risk enhancement
+        4)Risk acceptance
+-----------------------------------------------------
