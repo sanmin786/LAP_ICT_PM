@@ -1,0 +1,90 @@
+Time Management
+7 Main Processes
+1 to 6 => Planning
+7 => Controlling
+
+Planning Schedule Management
+
+1)schedule model
+2)methodology and tool (eg, Gannchart)
+3)Level of accuracy
+4)control thresholds (performance)
+5)Rules
+6)Reporting formats
+7)Process Descriptions
+
+CPA(Crtical Path Analysis)
+-show the shortest path and time taken
+
+Gannchart
+-show details of schedule
+--------------------------------------------------------
+Defining Activities
+task found on WBS
+Outputs=> activity list, activity attributes, milestone
+Activity List => Name, Description
+Activity Attributes => Resources, Duration, Constraints
+Milestone => Name, Description
+---------------------------------------------------------
+Sequencing Activities
+Documenting the relationship between project activities
+Outputs => project schedule network diagram, project document updates
+Dependencies => Mandatory Dependencies, Discretionary Dependencies, External Dependencies
+
+-Mandatory Dependencies (must be)
+contracts,laws,physical limitations
+
+-Discretionary Dependencies
+best practices, business knowledge
+
+-External Dependencies
+Relationships between project and non-project activities
+------------------------------------------------------
+Task Dependencies
+Finish to Start
+Start to Start
+Finish to Finish
+Start to Finish
+--------------------------------------------
+Network Diagram
+uses activity-on-arrow(AOA), arrow diagram method(ADM), PDM
+
+Burst => two or more ativities from a single node
+Marge => two or more nodes meet at a single node
+------------------------------------------------------
+Estimating activity resources
+people,equipment, materials
+Outputs => resource requirements, resource breakdown structure, project document updates
+-----------------------------------------------------------------------
+Activity Duration Estimate
+Duration = The actual amount of time worked on an activity + elapsed time
+---------------------------------------------------------------
+Developing the schedule
+Gannt Chart
+Critical Path Analysis
+
+SMART Criteria in Gannt Chart
+Specific
+Measurable
+Assignable
+Realistic
+Time-framed
+
+Critical Path Method
+The longest path is the critical path
+Slack or float => amount of time an activity may be delayed
+-----------------------------------------------------------------------
+Controlling changes to the project schedule
+-manage changes (should/should not)
+
+Reality Checks on Scheduling
+-review draft schedule in project charter
+-meeting with stakeholders
+
+Working with people issues
+Project Managers need several leadership skills
+-Empowerment
+-Incentives
+-Discipline
+-Negotiation
+

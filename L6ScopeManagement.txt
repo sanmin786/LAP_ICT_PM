@@ -1,0 +1,82 @@
+Cost Management
+profits
+profit margin
+
+-------------------------------
+Planning Cost Management
+Level of accuracy
+Units of measure ->labor hours ->roundign to the nearest
+Organizational procedures links -> WBS
+Control thresholds -> 10% of baseline cost
+Rules of performance measurement -> EVM(Earned Value Management)
+Reporting formats -> frquency of cost reports
+Process Description -> 
+
+Estimating costs
+Three basic types of estimate
+1)rough order of magnitude (ROM) estimate -> 3-5 year project  |Accuracy Low
+-made very early
+-made project initiation phase
+-use Top-Down estimating
+
+2)budgetary estimate -> 1-2 year project |Acuracy Medium
+-made during project planning phase
+-use top-down estimating
+
+3)definitive estimate -> less than 1 year project |Accuracy High
+-made during planning phase or late phase
+-use bottom-up estimating
+
+Tools for estimating costs
+Analogous Estimating(Top-Down Estimating)
+-estimate both duration and cost
+-use historical data
+-fastest technique
+-less accurate
+
+Bottom-up Estimating
+-estimate resources, duration and cost
+-more accurate
+-maximun amount of time and effort to estimate
+
+Three-Point Estimating
+-estimate both duration and cost
+-more accurate than analogous and parametric Estimating
+-consideration of risk, uncertainty
+-used when there is insufficient data
+
+Parametric Estimating
+-used to estimate resources,duration and cost
+-use historical data and project parameters
+-accuracy better than analogous
+
+--------------------------------------------------
+Typical Problems with IT Cost Estimates
+-Done too quickly
+-Lack estimating experience
+-Biased toward underestimation
+-Management desires accuracy
+
+--------------------------------------------------
+Determining the budget
+---------------------------------------
+Controlling costs
+Inputs=> project management plan, project funding requirements, work performance data and organization process assets
+Outputs=>
+-----------------------------------------------
+Earned Value Management (EVM) has three values
+Planned Value (PV) =>cost estimate planned to do activity
+Actual Cost(AC) => total direct + indirect cost
+Earned Value(EV) => work actually completed
+Rate of performance (RP)
+Cost Variance(CV) => EV - AC
+Schedule Variance (SV) => EV - PV
+CPI => ratio of EV to AC
+CPI = 1 OR 100% =>Budgeted
+CPI = less than 1 or 100% => Over Budget
+CPI = more than 1 or 100% => Under Budget
+
+SPI => ratio of EV to PV
+SPI = 1 OR 100% => on schedule
+SPI = less than 1 or 100% => behind schedule
+SPI = more than 1 or 100% => ahead of schedule

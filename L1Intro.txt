@@ -1,0 +1,85 @@
+Intro to Project Management
+
+12.5.2025
+
+What is a project?
+-temporary
+-objectives achieved or terminated
+Examples;
+Construction of a building,Filmig a movie
+
+What is not a project?
+Not Project
+-Daily exercise for health
+
+Project
+-Plan to lose wight within a month
+
+What are project attributes?
+-unique purpose
+-temporary
+-developed using progressive elaboration
+-require resources
+-have a primary customer or sponsor
+
+What are project constraints?
+Triple Constraint
+-Scope
+	what unique or service does the customer or sponsor expect from the project
+-Time
+-Cost
+
+How to manage the triple constraint
+If time is more important, you must often change the initial cope and cost goals to meet the schedule
+If scope goals are most important, you may need to adjust time and goals
+
+What is project management?
+-the application of knowledge, skills, tools, techniques to project activities in order to meet project requirement
+
+What is Program ?
+-Program is a group of related projects.
+
+Project Vs Program s Portfolio
+-Suppose that a house has three buildings one to make a kitchen, two to make bedrooms
+A project manager plans to manage room by room, considering triple constraints
+A program manager plans to manage three rooms at the same time
+A portfolio manager plans to manage if it is worth to make it or not
+
+Project Management Framework
+Stakeholders - people involved in project activities
+
+Project Management Knowledge Areas
+-Project Scope Management
+-Project Time Management
+-Project Cost Management
+-Project Quality Management
+-Project Human Resource Management
+-Project Communications Management
+-Project Risk Management
+-Project Procurement Management
+-Project Stakeholder Management
+-Project Integration Management
+
+Time Management Tools
+-Gantt Charts
+-Network Diagrams
+-Critical Path Analysis
+
+Project Success
+-met scope, time and cost goals
+-satisfied the customer/sponsor
+-results meeting objective goals such as making or saving a certain amount of money, having a good return on investment
+
+10 Soft skills for project managers
+1)People skills
+2)Leadership
+3)Listening
+4)Integrity, ethical behaviour, consistency
+5)Strength at building trust
+6)Verbal Communication
+7)Strength at building teams
+8)Conflict management
+9)Critical thinking
+10)Understanding and balancing of priorities
+
+

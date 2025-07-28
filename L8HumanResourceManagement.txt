@@ -1,0 +1,119 @@
+Project stakeholders
+-sponsors
+-customers
+-project team members
+-support staff
+-vendors supporting the project and so on
+
+-------------------------------------
+Major Processes
+-Planning human resource management < Planning
+-Acquiring the project team <Executing
+-Developing the project team < Executing
+-Managing the project team <Monitoring & Controlling
+
+-------------------------------------------------
+Motivation Theories
+-Intrinsic Motivation
+for their own enjoyment
+
+-Extrinsic Motivation
+for a reward or to avoid penalty
+
+Maslow's Hierarchy of Needs
+1.Physiological
+2.Safety
+3.Social
+4.Esteem
+5.Self-actualization
+
+Herberg's Motivation-Hygiene Theory
+-motivated to work mostly by feelings of personal achievementt and recognition
+
+--------------------------------------------------
+Influence and Power
+-9 Influences available to project managers
+1)Authority -> right to issue orders
+2)Assignment -> work Assignment
+3)Budget -> ability to authorize use of discretionary funds
+4)Promotion -> imporve worker's position
+5)Money -> increase a worker's pay and benefits
+6)penalty -> ability to dispense or cause punishment
+7)Work Challenge -> capitalize on a worker's enjoyment of doing a particular task
+8)Expertise -> perceived special knowledge
+9)Friendship -> establish friendly personal relationship
+
+Power (force people to change their behaviour)
+Five main types of Power
+1)Coercive Power -> using punishment,threats
+2)Legitimate Power ->based on position of authority
+
+3)Expert Power -> expertise to change their behaviour
+4)Reward Power ->using incentives
+5)Referent Power -> based on individual's personal charisma
+-------------------------------------------------------------------
+Improving effectiveness
+-7 habits to improve effectiveness on projects
+1)Be proactive
+2)Begin with the mind in end
+3)Put first things first
+4)Think win/win
+5)Seek first to understand, then to be understood
+6)Synergize
+7)Sharpen the saw
+
+--------------------------------------------------------------------
+Rapport -> a relation of harmony, conformity ,accord or affinity
+Mirroring -> the matching of certain behaviours of the other personal
+-------------------------------------------------
+Developing the human resource plan
+
+RACI charts
+R->Responsibity
+A->Accountability
+C->Consultation
+I->Informed
+---------------------------------------
+Staffing Management plan -> when and how people will be added to the project team
+Resource Histogram -> shows the number of resources assigned to a project over time
+
+--------------------------------------------------------------------
+Staff Acquisition
+-One innovative approach is to offer existing employees incentives for helping recruit and retain personnel
+
+Issues in Staff Acquisitions
+Resource Loading -> the amount of individual resource 
+Overallocation -> the available resouces are not enough
+Resource Leveling -> resolving resource conflicts by delaying tasks
+---------------------------------------------------------------
+Developing the project team
+Tools & Techniques for team development
+1)Training -> for imporvement of individual
+2)Team Building Activities -> Physical and Psychological
+Four dimensions of psychological type in MBTI
+-Extrovert(draw energy from other people)/Introvert (draw energy from inside)
+-Sensation(take in facts)/Intuition (imaginative)
+-Thinking(Objective&Logical)/Feeling (subjective&personal)
+-Judgment(establish deadlines)/Perception(keep things open & flexible)
+
+--------------------------------------------------------------
+Reward and Recognition Systems
+-should reward who willingly work overtime to get an aggressive schedule
+-should not reward who work overtime just to get extra pay
+
+---------------------------------------------------------
+General advice on Team
+-be patient and kind with our team
+-fix the problem instead of blaming people
+-establish regular, effective meetings
+-limit the size of work teams
+-plan some social activities to get to know each other better
+-nurture and encourage them to help each other
+-acknowledge individual and group accomplishments
+--------------------------------------------------------
+Managing the project team
+Tools & Techniques
+-Observation and conversation
+-Project performance appraisals
+-Interpersonal skills
+-Conflict Management

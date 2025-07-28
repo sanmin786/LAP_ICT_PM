@@ -1,0 +1,63 @@
+Deliverables => product related or process related
+product related=> a piece of hardware/software
+process related=> planning document
+
+Project Scope Management
+-planning
+-controlling and monitoring
+
+Two important outputs of Planning Scope Management
+1 scope management plan
+2 requirements management plan
+
+Scope Management Plan
+How to prepare a detailed project scope statement
+How to create WBS
+How to maintain and approve WBS
+How to obtain formal acceptance of the completed project Deliverables
+How to control requests for changes to the project scope
+
+Requirements Management Plan
+How to plan,track and report requirements activities
+How to perform configuration management activities
+How  to prioritize requirements
+How to use product metrics
+How to trace and capture attributes of requirements
+
+Collecting Requirements
+-Interviewing stakeholders - very effective
+-Holding focus groups and facilitated workshops - normally faster
+-Questionnaires and surveys
+-Observation
+-Benchmarking
+
+Defining Scope
+Tools and techniques => expert judgement, product analysis,workshops
+Main Outputs => project scope statement and project documents updates
+
+Approaches to Developing Work Breakdown Structure
+-Using guidelines
+-The analogy approach
+-The top-down approach (Theory Based)
+-The bottom-up approach (Data Based)
+-The mind-mapping approach
+
+WBS should appear only one place in the WBS
+
+Validating Scope
+Scope creep - tendency for project to keep getting bigger and bigger
+Scope Validation - formal acceptance of the completed project deliverables
+Main Outputs=> accepted deliverables, change requests, work performance information
+
+Tool for controlling scope => Variance Analysis (the difference between planned and actual performance)
+Outputs of scope control => change requests, updates about project management plan, project document, organizational project assets
+
+6 Processes of Project Scope Management
+Planning
+1 Plan Scope Management
+2 Collect all requirements
+3 Define Scope
+4 Create WBS
+Controlling
+5 Validate Scope
+6 Control Scope

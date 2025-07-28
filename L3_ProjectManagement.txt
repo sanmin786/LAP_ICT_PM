@@ -1,0 +1,62 @@
+L3
+Project Integration Management
+
+10 Knowledge Areas
+1.Scope
+2.Time
+3.Cost
+4.Quality
+5.Human Resource
+6.Communications
+7.Risk
+8.Procurement
+9.Stakeholder
+
+Main processes in project integration management
+1)Developing the project charter
+	Project Title
+	Project start/end date
+	Key Schedule Milestones
+	Budget Information
+	Project Manager
+	Project Objectives
+	Main Project Success Criteria
+	Approach
+	Roles and Responsibilities
+	Sign-off
+	Comments
+
+2)Developing the project management plan
+	Overview
+	Project Organization
+	Managerial Process Plan
+	Technical Process Plan
+	Supporting Process Plan
+
+3)Directing and managing project work
+	Coordinating planning and execution
+	Providing strong leadership and supportive culture
+	Capitalizing on Product, Business and Application Area Knowledge
+	Project Execution Tools and Techniques
+
+4)Monitoring and controlling project work
+	Change requests and work performance reports
+
+5)Performing integrated change control
+	To ensure that changes are beneficial
+	Determining that a change has occurred
+	Managing actual changes as they occur
+	Change Control Board(CCB) for approving or rejecting changes to a project
+6)Closing the project
+	Final product, service, or result transition
+	Organizational process asset updates: Final project report
+
+Project Life Cycle
+1)Initiating
+2)Planning
+3)Executing
+4)Monitoring and Controlling
+5)Closing
+
+Strategic Planning
+determine long-term objectives by SWOT Analysis
