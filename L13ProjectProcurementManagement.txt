@@ -1,0 +1,59 @@
+Procurement => acquiring goods and services from an outside source
+Who provide => suppliers, vendors, contractors,sellers
+
+Project Procurement Management
+Four Processes
+1)Planning Procurement Management
+    deciding whether to procure (yes/no)
+    how to procure (cash or card)
+    what to procure (choice of brand, specifications)
+    how much to procure (budget)
+    when to procure ()
+Output => make-or-buy decision (make inside the organization or buy from outside)
+Inputs=> project management plan, requirements documentation, the risk register, activity resource requirments, project schedule, activity cost estimates, stakeholder register, enterprise environment factors and organizational process assets such as contacts
+
+Types of contracts
+1)Fixed-price or lump-sum contracts
+    fixed total proce for a well-defined product or service
+2)Cost-reimbursable contracts
+    payment to the supplier for direct or indirect actual costs
+3)Time and material (T&M)
+    a hybrid of fixed-price and cost-reimbursable contacts
+
+Statment of Work (SOW)
+    description of the work required for the procurement
+
+A contract SOW should be clear, concise
+
+Procurement Documents (required for large procurements)
+Request for proposal(RFP)   => a document used to solicit proposals from prospective suppliers
+                            => a proposal is prepared by a seller when there different approaches for meeting buyer's needs
+
+Request for Quote(RFQ)      => a document prepared by sellers to provide pricing for standard items that the buyer has clearly defined
+
+
+2)Conducting procurements
+    sending documents to potential sellers
+
+3)Controlling procurements
+    seller's performance meets contactual requirements
+    Changes need to be reviewed, approved and documented
+    Evaluation of an change should include impact analysis
+    Changes must be documented in writing
+
+    *Do not assume that everything will go well becuase you hired a reputable supplier*
+
+    Have backup plans in case the new system does not work as planned
+
+4)Closing procurements
+    contact closure
+
+Using software to assist in project procurement management
+Web-based ERP (Electronic Resource Planning) => eg.Odoo
+e-MRO(Manintenance, Repair, Overhual) => Larger items like computers and furnitures are part of the MRO inventory
+e-sourcing => eg. RFP,RFQ
+e-tendering => B2B Business, Government contracting
+e-reverse auctioning => which one is better known or unknown supplier
+e-informing=> emails, text messages, raw data, image files
+e-marketsite => amazon,eBay
+ 
