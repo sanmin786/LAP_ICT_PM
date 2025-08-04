@@ -1,0 +1,53 @@
+QM has three main processes
+1)Planning
+    Planning Quality Management
+        Functionality(add to carts,payment system)
+        System Outputs (screens, reports)=>(invoices for users, sales report for admins)
+        Performance (to meet intented user's ecpectations)
+        Realiability (warranty service, waterproof)
+        Maintainability (adding features, storage to current web)
+2)Executing
+    Perform Quality Asssurance
+        Quality Asssurance => continuous quality improvement according to quality standards
+        Kaizen => change for the better
+        Lean => maximize customer value while minimizing waste
+        Benchmarking => comparing project practices within or outside the performing organization
+        Quality Audit => to check the current projects and helps identify lessons learned for improvement
+
+3)Monitoring and Controlling
+    Perform Quality Control
+        Main Outcomes => acceptance decisions, rework and process adjustments
+        Acceptance decisions
+            Accepted or Rejected
+            If accepted,considered to be validated deliverables
+            If rejected, must be rework
+        Rework  
+            action taken to be compliance with product requirements, specifications or other stakeholder expectations
+        Process adjustments
+            prevent quality problems based on quality control measurements
+
+Tools and techniques for Quality Control
+1)Cause-and-effect diagrams(ask why) => help find the root cause of a problem
+2)A control chart => results of process over time
+3)A checksheet => to collect and analyze data (for compliant)
+4)A Scatter diagram => relationship between the two variables, the more closely the two variables are related
+5)A Histogram => bar graph of a distribution of variables
+6)A Pareto chart => a histogram that can help identify and priortize problems (for compliant)
+7)Flowcharts => (yes/no solution)
+8)A run chart => the history and pattern of variation of a process over time
+
+Six Sigma
+Target achievement of no more than 3.4 defects, errors or mistakes
+follow five phase princle (DMAIC)
+    Define
+        Define problem /opportunity
+    Measure
+        Display data
+    Analyze
+        find improvement opportunities based on data
+    Improve
+        generate solutions and ideas
+    Control
+        track and verify
+        
+QM is measured by ISO()
